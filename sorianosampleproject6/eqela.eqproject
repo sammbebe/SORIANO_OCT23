@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sorianosampleproject6
+#
+
+projectname: sorianosampleproject6
+vendorid: com.sorianosampleproject6
+mainmodule: com.sorianosampleproject6.sorianosampleproject6
